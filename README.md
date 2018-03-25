@@ -7,6 +7,19 @@ architecture` and `cudnn-v5`.
 
 Welcome test and debug :)
 
+
+--------------------------------------------
+- matio is needed in this project.
+```
+1. download matio(http://sourceforge.net/projects/matio/)
+2. install
+$ tar zxf matio-X.Y.Z.tar.gz
+$ cd matio-X.Y.Z
+$ ./configure
+$ make
+$ make check
+$ make install
+```
 --------------------------------------------
 
 ### Introduction
